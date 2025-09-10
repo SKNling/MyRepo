@@ -1,1 +1,1 @@
-this is my first repo pushed using terminal in VS Code
+this is main branch in text
